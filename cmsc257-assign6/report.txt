@@ -1,0 +1,6 @@
+This is a report for cmsc257 Assignment 6. 
+It is just some text for use with the assignment.
+There should only be 3 numeric words.
+There should only be 1 alphanumeric word. 
+It is also supposed to hold the link to my github, 
+which is this: https://github.com/GitGudPeter/CMSC257-Assign-6.git 
